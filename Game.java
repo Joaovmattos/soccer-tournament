@@ -38,7 +38,7 @@ The score bug is a good example I didn't notice it during testing, but multiple 
 caught it right away. Reading comments from people who never saw the code before
  is actually one of the best ways to find problems.
  */
-import java.awt.*;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
